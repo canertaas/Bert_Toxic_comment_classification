@@ -1,4 +1,4 @@
-## Quality Classification on Wine Dataset
+## Toxic Comment Classification with BERT
 I used BERT model in this project for toxic comment classification. 
 
 ## Models and Data Used
